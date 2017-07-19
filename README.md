@@ -17,7 +17,7 @@
 1. 首先：这种实现方案，必须在项目General-Device Orientation中勾选相应支持的方向
 
 
-![83D3944F-226D-4D72-9F4E-7225478443B8](/Users/DianShi/Library/Containers/com.tencent.qq/Data/Library/Application Support/QQ/Users/343062356/QQ/Temp.db/83D3944F-226D-4D72-9F4E-7225478443B8.png)
+![83D3944F-226D-4D72-9F4E-7225478443B8](https://raw.githubusercontent.com/janicezhw/files/master/17B058DD-4CAE-40A9-BF0C-B46E4286E7D9.png)
 
 2. 只有当shouldAutorotate为YES 的时候，才会进入判断supportedInterfaceOrientations。
 3. 三个设置需要在项目的rootViewController（根视图）才有效：
